@@ -1,0 +1,16 @@
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\bin\Debug\Loyalty.exe.config
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\bin\Debug\Loyalty.exe
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\bin\Debug\Loyalty.pdb
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.csprojResolveAssemblyReference.cache
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.Form1.resources
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.Properties.Resources.resources
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.csproj.GenerateResource.Cache
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.exe
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.pdb
+c:\users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.AddNewCustomer.resources
+C:\Users\tundek\documents\visual studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.UI.LoyaltyManagement.resources
+C:\Users\tundek\Documents\Visual Studio 2013\Projects\Loyalty\Loyalty\bin\Debug\Loyalty.exe.manifest
+C:\Users\tundek\Documents\Visual Studio 2013\Projects\Loyalty\Loyalty\bin\Debug\Loyalty.application
+C:\Users\tundek\Documents\Visual Studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.exe.manifest
+C:\Users\tundek\Documents\Visual Studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.application
+C:\Users\tundek\Documents\Visual Studio 2013\Projects\Loyalty\Loyalty\obj\Debug\Loyalty.UI.Login.resources
